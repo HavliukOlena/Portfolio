@@ -78,9 +78,12 @@ h1 {
     font-size: 44px;
     text-align: center;
   }
-  .project-descriotion {
+  .project-description {
     padding: 0;
     text-align: center;
+  }
+  .hero {
+    padding: 15px;
   }
 }
 .hero-contacts {
