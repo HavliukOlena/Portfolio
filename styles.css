@@ -28,6 +28,9 @@ h3 {
   font-family: var(--heading-font-famaly);
   font-weight: normal;
 }
+footer {
+  margin: 0;
+}
 footer .ontact-box h4 {
   font-family: var(--heading-font-famaly);
   font-weight: bold;
